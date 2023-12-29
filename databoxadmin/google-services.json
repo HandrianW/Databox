@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503059211776",
+    "project_id": "databox-4a381",
+    "storage_bucket": "databox-4a381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503059211776:android:52453beeaf4b0c6fa61ae5",
+        "android_client_info": {
+          "package_name": "com.example.databox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISM09IWSiNUTXEnoWZ9or0PZ9wHJWm-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503059211776:android:d2ed38321ccb5930a61ae5",
+        "android_client_info": {
+          "package_name": "com.example.databoxadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISM09IWSiNUTXEnoWZ9or0PZ9wHJWm-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
