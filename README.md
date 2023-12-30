@@ -1,4 +1,4 @@
-![image](https://github.com/HandrianW/Databox/assets/69663236/ddc25bcc-ee1b-4086-97be-5af8cb16843e)**Databox Documentation**
+**Databox Documentation**
 
     **1. Definition**
 
